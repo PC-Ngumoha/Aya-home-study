@@ -94,7 +94,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/week_1/votingmechanism.sol": "Poll"
+			"contracts/week_1/solution.sol": "Poll"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -108,12 +108,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/week_1/votingmechanism.sol": {
-			"keccak256": "0xc768589128074ed15be247ae1d9b387338f1cf4ec720a7364029e3cc9d49bbc7",
+		"contracts/week_1/solution.sol": {
+			"keccak256": "0x899bc74ac7223f3509e0ff3ed47a8d071bb686ee8a2d16c799bb404f8cf096c7",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://961b0f7230b633d41bbdd49d1e0574e28a8dabcf2cd3bbb29f2be51377b07c77",
-				"dweb:/ipfs/QmUMKLqJDiA46TjsY5gHQFiX2fQQERU3Pw4yn7GYv3gRLV"
+				"bzz-raw://0f8a831136a5eb55c14cccefa1465146b3e0c47ba48f42fba173e9408c857e8c",
+				"dweb:/ipfs/QmVwgsQAnUBmATy3U98UQYwrmhmaiG2UzTo7FYfA4SFZuE"
 			]
 		}
 	},
