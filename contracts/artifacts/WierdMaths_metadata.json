@@ -1,0 +1,89 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "self",
+						"type": "int256"
+					},
+					{
+						"internalType": "int256",
+						"name": "num",
+						"type": "int256"
+					}
+				],
+				"name": "add",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "self",
+						"type": "int256"
+					}
+				],
+				"name": "applyFactor",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/libraryexample.sol": "WierdMaths"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/libraryexample.sol": {
+			"keccak256": "0x6cb85510d307cd11a6cfd7cbd5d40576072073e144814743bd54aeef82e30fc8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c56e1fc1fc3d58a4ed3c1e731a938eb72de2a1e472bf10b37ebfc35744dd3eaa",
+				"dweb:/ipfs/QmUtymkogiLtBMcAAPYbCdWc7Dn8fP8KEe9kEH9BsEY7QT"
+			]
+		}
+	},
+	"version": 1
+}

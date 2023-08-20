@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_target",
+						"type": "address"
+					}
+				],
+				"name": "callFallback",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/targetcallerfallback.sol": "TargetCaller"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/targetcallerfallback.sol": {
+			"keccak256": "0x56b1c26c943c3aadb9c4ef06973fe4a37107b5f499db503034bf2ddeaf1bf8dd",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://29e70c4c60c5113ceba8a2b559e1273d086d58ab6f66ea4967dceafb6bb2b18d",
+				"dweb:/ipfs/QmZkWuza1xH6V4UkKUiZAnb8XUfnhyaJ5tdFQVNiuCrz3P"
+			]
+		}
+	},
+	"version": 1
+}
